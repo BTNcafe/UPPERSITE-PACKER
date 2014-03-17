@@ -1,4 +1,4 @@
-UPPERSITE-PACKER
+UPPERSITE PACKER
 ================
 UPPERSITE BOX를 패키지화 하는 PACKER.js입니다.
 
